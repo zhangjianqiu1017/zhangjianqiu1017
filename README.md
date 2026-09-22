@@ -2,9 +2,9 @@
 
 ### An undergraduate student majoring in computer science at HNUST.
 
-- 🔭 I'm currently working on **Software Development | Machine Learning | Deep Learning | Data Mining | English**
+- 🔭 I'm currently working on **Software Development | Machine Learning | Deep Learning | Data Mining**
 
-- 🌱 I'm currently learning **Vue3 | Django | English | Deep Learning**
+- 🌱 I'm currently learning ** DRF | English | Deep Learning | Computer Network**
 
 - 📫 How to reach me **zhangjianqiu1017@gmail.com**
 
