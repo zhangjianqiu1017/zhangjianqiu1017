@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Software Development | Machine Learning | Deep Learning | Data Mining**
 
-- 🌱 I'm currently learning ** DRF | English | Deep Learning | Computer Network**
+- 🌱 I'm currently learning **DRF | English | Deep Learning | Computer Network**
 
 - 📫 How to reach me **zhangjianqiu1017@gmail.com**
 
